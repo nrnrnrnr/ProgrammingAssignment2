@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "3973699438",
+    "hash" : "0",
     "id" : "FCA723DB",
     "lastKnownWriteTime" : 1513292868,
     "last_content_update" : 1513292868481,
     "path" : "~/Documents/GitHub/ProgrammingAssignment2/cachematrix.R",
     "project_path" : "cachematrix.R",
     "properties" : {
-        "cursorPosition" : "33,1",
-        "scrollLine" : "14"
+        "cursorPosition" : "8,22",
+        "scrollLine" : "0"
     },
     "relative_order" : 2,
     "source_on_save" : false,

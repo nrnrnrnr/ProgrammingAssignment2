@@ -2,18 +2,18 @@
     "collab_server" : "",
     "contents" : "",
     "created" : 1513285031691.000,
-    "dirty" : false,
+    "dirty" : true,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "0",
+    "hash" : "3381198155",
     "id" : "3A469EE3",
     "lastKnownWriteTime" : 1513285457,
-    "last_content_update" : 1513285457406,
+    "last_content_update" : 1513293873132,
     "path" : "~/Documents/GitHub/ProgrammingAssignment2/README.md",
     "project_path" : "README.md",
     "properties" : {
-        "cursorPosition" : "99,21",
-        "scrollLine" : "70"
+        "cursorPosition" : "104,51",
+        "scrollLine" : "90"
     },
     "relative_order" : 1,
     "source_on_save" : false,
